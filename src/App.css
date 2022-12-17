@@ -4,11 +4,14 @@
 }
 @media only screen and (max-width: 1000px) {
   .Section{
-    margin: 0px 0px;
+    margin: 50px 60px;
   }
 }
 .Img{
   width:90px;
   height:90px;
   border-radius: 100px;
+}
+.Error{
+  color: red;
 }
